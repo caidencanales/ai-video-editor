@@ -1,4 +1,4 @@
-"""Phrase chunking and two basic caption styles, written as an .ass subtitle file.
+"""Phrase chunking and two caption styles, written as an .ass subtitle file.
 
 Styles:
   bold     white, heavy outline, lower third
